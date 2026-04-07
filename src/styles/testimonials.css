@@ -1,0 +1,26 @@
+.testimonials {
+    padding: 80px 20px;
+    text-align: center;
+    background: #fff0f6;
+}
+
+.testimonials h2 {
+    font-size: 2rem;
+    margin-bottom: 40px;
+    color: #d63384;
+}
+
+.testimonials-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 700px;
+    margin: auto;
+}
+
+.testimonials-card span {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #d63384;
+}
